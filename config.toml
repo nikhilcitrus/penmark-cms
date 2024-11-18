@@ -1,0 +1,4 @@
+baseURL = 'https://hugopenmarkcms.netlify.app'
+languageCode = 'en-us'
+title = "Nikhil's Blog"
+theme = 'PaperMod'
