@@ -8,6 +8,6 @@ draft: false
 
 ## Introduction
 
-This is **bold** text, and this is *emphasized* text. test.
+This is **bold** text, and this is *emphasized* text. test1.
 
 Visit the [Hugo](https://gohugo.io) website!
